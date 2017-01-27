@@ -18,6 +18,7 @@ public class FirstGit {
         System.out.println("You can do it, don't quit.");
         int x = 1;
         int y= 6;
+        int z = 8;
     }
     
 }
