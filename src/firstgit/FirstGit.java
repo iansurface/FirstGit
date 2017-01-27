@@ -17,6 +17,7 @@ public class FirstGit {
     public static void main(String[] args) {
         System.out.println("You can do it, don't quit.");
         int x = 1;
+        int y= 6;
     }
     
 }
